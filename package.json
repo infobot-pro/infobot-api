@@ -1,0 +1,27 @@
+{
+  "name": "infobot-api",
+  "version": "1.0.0",
+  "description": "Node.JS API for infobot.pro service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infobot-pro/infobot-api.git"
+  },
+  "keywords": [
+    "infobot",
+    "infobot.pro",
+    "infobot api"
+  ],
+  "author": "Aleksey Kudakov <cto@infobot.pro>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/infobot-pro/infobot-api/issues"
+  },
+  "homepage": "https://github.com/infobot-pro/infobot-api#readme",
+  "dependencies": {
+    "swagger-client": "^3.13.3"
+  }
+}
